@@ -5,7 +5,7 @@
  
   <test name="Bangalore Team Validation">
     <classes>
-      <class name="test.sample.ParameterSample"/>
+      <class name="com.interview_test.test.Interview_Test_Scenarious"/>
     </classes>
   </test>
 </suite>
